@@ -25,6 +25,13 @@ Files in the Scripts folder:
   - webscrape-FelixJet.ipynb
     - Scraped [source](https://alltransit.cnt.org/rankings/)
 
+Files in the Reports folder:
+
+- Data_Wrangling_Report_Felix-Jet.pdf
+  - Final report documenting our analysis and findings
+- transitPresentation-FelixJet.pdf
+  - Presentation documenting our initial findings
+
 ## Data Dictionary
 
 | Field                            | Data    | Description                                                                                                                                                                                                                                                                                   |
